@@ -1,1 +1,4 @@
-# ekye0512.github.io
+# Eric Kye
+### Welcome to my website 
+
+
